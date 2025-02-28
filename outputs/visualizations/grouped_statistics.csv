@@ -1,0 +1,9 @@
+,Total,Total,Total,Total,Total,Quantity,Quantity,Quantity,Quantity,Quantity,Unit price,Unit price,Unit price,Unit price
+,sum,mean,std,min,max,sum,mean,std,min,max,mean,std,min,max
+Product line,,,,,,,,,,,,,,
+Electronic accessories,57555.05,319.75,243.19,26.72,942.45,1027,5.71,2.85,1,10,53.56,26.82,10.56,99.73
+Fashion accessories,54305.9,305.09,243.56,12.69,1042.65,902,5.07,3.1,1,10,57.15,26.67,10.18,99.89
+Food and beverages,56144.84,322.67,247.16,22.66,1034.46,952,5.47,2.87,1,10,56.01,26.27,10.13,99.79
+Health and beauty,49193.74,323.64,237.54,18.64,950.25,854,5.62,2.85,1,10,54.85,26.35,10.08,99.96
+Home and lifestyle,53861.91,336.64,254.6,14.68,1023.75,911,5.69,2.82,1,10,55.32,26.21,10.53,99.92
+Sports and travel,55122.83,332.07,248.38,10.68,1002.12,920,5.54,2.95,1,10,56.99,26.91,10.17,99.96

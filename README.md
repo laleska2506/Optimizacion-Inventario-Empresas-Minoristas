@@ -1,6 +1,4 @@
-Descripción del Proyecto
-
-Sistema de Gestión de Inventarios
+<h1>Sistema de Gestión de Inventarios para Empresas Minoristas</h1>
 
 Este proyecto consiste en un Sistema de Gestión de Inventarios diseñado para empresas o usuarios que necesitan optimizar el manejo de sus productos, predecir tendencias de demanda, y generar alertas en tiempo real para prevenir escasez de inventarios. El sistema proporciona una interfaz gráfica interactiva y amigable desarrollada en Python utilizando la biblioteca Tkinter, permitiendo a los usuarios visualizar y gestionar datos de manera eficiente.
 Funcionalidades Principales:
